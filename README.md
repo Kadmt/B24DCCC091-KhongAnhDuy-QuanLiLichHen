@@ -41,3 +41,4 @@ adb shell am instrument -w com.example.myapplication.test/androidx.test.runner.A
 Bộ Espresso 3.5.1 hiện có của dự án nên chạy trên emulator API 34;
 trên emulator API 37, thư viện này lỗi InputManager.getInstance trước khi thao tác UI.
 "# B24DCCC091-KhongAnhDuy-QuanLiLichHen" 
+"# B24DCCC091-KhongAnhDuy-QuanLiLichHen" 
