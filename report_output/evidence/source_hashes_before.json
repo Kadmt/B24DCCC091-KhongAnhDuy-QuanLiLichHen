@@ -1,0 +1,306 @@
+﻿[
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\AndroidManifest.xml",
+        "Hash":  "64ECB7A892F52B43D2B72BFAF9500B3D274867FE60E5D19CC65A32949AEF3813"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\java\\com\\example\\myapplication\\activity\\AddAppointmentActivity.java",
+        "Hash":  "AF2C635C2BD74DA062CA671F1912F4F19A921AAF4F37A83739D367079E2E9101"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\java\\com\\example\\myapplication\\activity\\AppointmentActivity.java",
+        "Hash":  "EE16343017DE0B88E1CCB45924E0960B3AC9E680FA4DEF34B7404874BBA4DF4F"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\java\\com\\example\\myapplication\\activity\\AppointmentDetailActivity.java",
+        "Hash":  "FE590B7BA637F687AB42A7BD00E51ECB8208232D43D73B1BFF525D7386EF0C1A"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\java\\com\\example\\myapplication\\activity\\LoginActivity.java",
+        "Hash":  "6B3CD358E18DA42DBA1B7214C4E14EA802C072C3F18A52188811704528E7C6A4"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\java\\com\\example\\myapplication\\activity\\MainActivity.java",
+        "Hash":  "CA83BCBE8FF024EFE7A7FAE59E09897B273F5D86FCDB28583D35B39B443457CD"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\java\\com\\example\\myapplication\\adapter\\AppointmentAdapter.java",
+        "Hash":  "D9B18C7F86AB91C212D672695396801C779BAAC96F5AD0E11372A581B1D020FE"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\java\\com\\example\\myapplication\\database\\DatabaseHelper.java",
+        "Hash":  "CAB0725DAD58FF08FD6B9B7EEEE02A0CF33F0CDAF4D87FA406B78864BB076959"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\java\\com\\example\\myapplication\\model\\Appointment.java",
+        "Hash":  "251B81CD48FD9298F5E0E8A1DE5ABF7DD89317DD6C8666E406577CF7AD40C6FC"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\java\\com\\example\\myapplication\\util\\AppointmentDateTime.java",
+        "Hash":  "FBA91DCDFCC60D2AA1F45F83BF89AEC2777634EA9FFDD609F8C6920C8458384F"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\keepRules\\rules.keep",
+        "Hash":  "CD9F36ADE2D8604E1B7CF24EFF5B171F9C0816C0AA013BA7EB55BE4FE2E1DAC7"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\color\\ap_switch_thumb.xml",
+        "Hash":  "1378816179C32ED7CA732510B8861A6A5C3D8081C2037276A9533AD45D55102A"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\color\\ap_switch_track.xml",
+        "Hash":  "BBF6925DE28D83F65403FE17C2A84664410915AD47A02B02E51DFB5AF138C243"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ap_card.xml",
+        "Hash":  "23A8216BE5A3C4A1F2797035DDBAF90B8CD6598426005816200ACEA437B1EC40"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ap_chip_off.xml",
+        "Hash":  "058EB0E0226713BB872F65DE39379C57BBB3A7C186416E6A2A3B481669BEFCAD"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ap_chip_on.xml",
+        "Hash":  "770B8F8A2AC70ACAA372EF5EF4A50143EE39EA42FB860F5D52E8E43BCED35C5A"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ap_error.xml",
+        "Hash":  "CAAA84EEA935CC8486A3DD563FCF57DC9820A406B23B4D859DD485FB65628202"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ap_hero.xml",
+        "Hash":  "9F674E70715612DB1833344E571FED986D7B16ABA055490582D39C59BE7A49D3"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ap_icon_tile.xml",
+        "Hash":  "A51DD8E891CE505A28561E8CA3CBB6B618AC0AB2E336DDB77E624F2E8C2851EA"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ap_ic_add.xml",
+        "Hash":  "468BA2F86DA1A8F9FA7D3BC7B87E872AE7AA08C238510697EC21B2D90A43C530"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ap_ic_arrow.xml",
+        "Hash":  "205E91540C275E5C6DF7C535EAAC22F5DC124EB3567A062E9C3C744A0A788150"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ap_ic_back.xml",
+        "Hash":  "FBE64DA1D7CC73938D5F9C41F02BFAD7060C2F995CA841BBE190CB6E36306692"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ap_ic_calendar.xml",
+        "Hash":  "C7919F4CF4518D17A61FDA6AC725E6CA0C9F83D07F03B289B08B2D5C5D3956FD"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ap_ic_chevron.xml",
+        "Hash":  "9C21360ADB88B4CBFF28F5D3C13D0F463B2E3A1AAFDDF483F867020E41DE7D28"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ap_ic_clock.xml",
+        "Hash":  "DC02FC52DBF5766A6F99DA2E08BA212084A9F7C01B2F2472AA668B3354EF8D40"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ap_ic_location.xml",
+        "Hash":  "97657492D5E728B943B989386963F7FA150879FC726ED84726C4145F59190E41"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ap_ic_lock.xml",
+        "Hash":  "E444A31F78A0B6CDBA273829E29CFB498B628728BEDC1D6131BECF671AE1DC60"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ap_ic_person.xml",
+        "Hash":  "DBE30C115BB380B9ABC4D17B9101766E099445B60256288F985503019938961C"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\bg_button_outline.xml",
+        "Hash":  "96C93304DDF514C05F20144DB1124560910217959353CDD011203E23806500CE"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\bg_button_red.xml",
+        "Hash":  "8DFD5976B6D1A63E9BB831E9855A4A08065CCDADF715812755EB7ABEB9C92581"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\bg_button_teal.xml",
+        "Hash":  "0D6DCB7EA3889BD392850C11E10B2B70E533DF625C379527A705AA8F8FEA6CD1"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\bg_card_total.xml",
+        "Hash":  "10963D3657B45DCBA4E5D01147A127BCBB8ABC1F888C50374687C63E5988114E"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\bg_chip_category.xml",
+        "Hash":  "74BDF153F3E92F020A136D03950AF5DAADAEBC7D473AC3B943B1C403415E8D0E"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\bg_input_field.xml",
+        "Hash":  "1681DCF91A0E5F454E8B0CF2C3B7F1E5972CD15670CCA404283DA24B7CCE7E13"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\bg_status_read.xml",
+        "Hash":  "8F887D19772065003C808E73E08ACCC362051B23E10177F43AB4FA8084A9075C"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\bg_status_reading.xml",
+        "Hash":  "EF1ED3531249DEEED542B57E601C443C43D7A7599E790782CB113E41AB947CAD"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\bg_status_unread.xml",
+        "Hash":  "7D68188D29E029FBE4D8B7C4B96FABC9B3F0A5693A507F2E345D3F60F391FA80"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml",
+        "Hash":  "ED423C73A6F40A4D2909F0901E60527B3A807CD59E1B5593BCAAE1808B1C6321"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml",
+        "Hash":  "01D1A6A6C1234EB7FE270D097EB283D72B9C95AE5118886F1B6573AAD280F1F7"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable\\ic_logo_dong.xml",
+        "Hash":  "20BB57598B08C8D42E97B9247C0090C92D386A0EDD5F7EF5552E0FCAA086FBD3"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\activity_add_appointment.xml",
+        "Hash":  "AE275632B098148F29A7D457D093DB9FE4CDFFCCBB0FBD651823AD57B862B09A"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\activity_appointment_detail.xml",
+        "Hash":  "EBF9A5C6557A1D55687B662AB3A0328504EC74A4C2943A2D38E59D97A36F8736"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\activity_login.xml",
+        "Hash":  "0E6DC0AFFF1B39545B739016DE2AB3415469D6B3DE752762F3D57D0EDF3183C2"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\activity_main.xml",
+        "Hash":  "5366EDB8E2E02C85F6C41FF87FAF3E12BCA2DF18F45850D2CA5FB40DCFBC8452"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\item_appointment.xml",
+        "Hash":  "B980B60E466517CF1E03194A5B3B0778D6D900DBF9F9D897944B3D6F32112ADD"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml",
+        "Hash":  "88F7653499EF524126EA5018A99BAF9CC3269E7E584D6205DFDD76DB39F39CC0"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml",
+        "Hash":  "88F7653499EF524126EA5018A99BAF9CC3269E7E584D6205DFDD76DB39F39CC0"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp",
+        "Hash":  "DD00996198640ED28FBC09CDCD7A3807CF8707F3EB255B659634DA3CA6A6FF01"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp",
+        "Hash":  "1ED73F5341A69D3B41C7E02E126803F50CC8C3284ADF4BBB737F0C93577AEF07"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp",
+        "Hash":  "846219E6F72FE9A6C104CA8919CBEE36A101E7D2FF8DA9DA67B689A5888F060D"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp",
+        "Hash":  "4E2C58B91DE01130E6479E00CBBAAF6E77CD961DD2C8E303CF13CD077FA92632"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp",
+        "Hash":  "398340DAD816FC9A6338CB151A8CF1E45B926F9BFB70628B24C4BD2523CC94D4"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp",
+        "Hash":  "91B490AEF86574901137F0A252272E1F1ADD99C1AD709E0696ED68929B88D261"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp",
+        "Hash":  "58AE87FA0C5B5D1562D27FD648D2C061553FE20E3ED570BDE588162D01EA7A27"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp",
+        "Hash":  "3009FAD079F5772F30ECD767F98924367FBE0F81C30048D672D4FDA2D5CA7D12"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp",
+        "Hash":  "F98FEF5BC3BFE5B65692C40AD1CBAE2BEC4FAF9F1B249C397626740DB71B62D8"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp",
+        "Hash":  "5FAF033745C8C882C43BB1B372D4E4A5890CAEC63D9892A2E756C954108B85DC"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\values\\appointment_colors.xml",
+        "Hash":  "ACB4D652EA42FABE7092962FA251C6F0B1DB94D05F3BF07B44B0D67282B6052F"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\values\\appointment_styles.xml",
+        "Hash":  "3DE956ADE0F8C6FEF71DA75AB8DE22C403BDC78EC982A025C02C24BF0E8A3A47"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\values\\colors.xml",
+        "Hash":  "72B779E97FEFEC06ADE424F5905D833F081F620D8F38AEAF84E91210FA063B51"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\values\\dimens.xml",
+        "Hash":  "1F174A6E840745463D4E640B3D9F4F1A4410B68C973F27880B5D81775A55F5F3"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\values\\strings.xml",
+        "Hash":  "11EDF5D82335D0FDD29D991802EE090D4C538986A90E4A4FF3EB05D2DE2DFC79"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\values\\themes.xml",
+        "Hash":  "7647AF776DF18AFB87515EA8ECA97D5E2DFD67D182C459891651A98CEA6A77EB"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\values-land\\dimens.xml",
+        "Hash":  "3EFD84816B428A7AF7EE473C70D6BE22017B2358C33BB7A91FDF04F518CC7573"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\values-night\\appointment_colors.xml",
+        "Hash":  "A1275FB3F68B915DB131B01BDBEE08EED3A379EBC4279636EF4586D66C88DCE9"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\values-night\\themes.xml",
+        "Hash":  "4F3F7337556BCD689603CAA1C0DE2E9AF0FE56102C94198BC99EE01616672A97"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\values-v23\\themes.xml",
+        "Hash":  "2F65F6A4455C702F594B35BC18C57B18B182FEF0C0D68ABFAAAB0932635F9D6B"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\values-w1240dp\\dimens.xml",
+        "Hash":  "D6887B19BF9D21F1CBD6B05226BC25079C1CFA455AB30E9CF66F46CC1837DB70"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+        "Hash":  "3EFD84816B428A7AF7EE473C70D6BE22017B2358C33BB7A91FDF04F518CC7573"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\xml\\backup_rules.xml",
+        "Hash":  "6CF1A27E6807B1D24E41D3FBE7DDC1BFE1F42226027964F6EAF477D71B43B283"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\xml\\data_extraction_rules.xml",
+        "Hash":  "CB1FC47AB4A984530ED60E0E6EE638929C3038290E7E7E0B4B03A3A30FBE7381"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\build.gradle.kts",
+        "Hash":  "5DAD2D59C54BEB7D7801E06E1C795456D1BEA58C0CCBEDDFCE159CD8F58C2FA8"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\settings.gradle.kts",
+        "Hash":  "8E3FB187CFD78E5A6BD0690FBC45D0C6675CC5DB09A86986FFAF73554A911870"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\app\\build.gradle.kts",
+        "Hash":  "901194E38C5C4DC6DBDA44BDAA88DCE6F74EB693662B88D0B4347BB6ADED627C"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\gradle\\libs.versions.toml",
+        "Hash":  "BED0B716E3B70F8F8ADD702C5F07BB547497FD8626885757D2EA13330D160225"
+    },
+    {
+        "Path":  "C:\\Users\\T14s Gen 3\\AndroidStudioProjects\\MyApplication2\\gradle\\wrapper\\gradle-wrapper.properties",
+        "Hash":  "AEBD9368C8E133B28D488CB48597B288C6178866EE11498716CD7F501AC3C90D"
+    }
+]

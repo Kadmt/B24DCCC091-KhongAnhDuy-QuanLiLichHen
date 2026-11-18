@@ -1,73 +1,58 @@
 <resources>
-    <string name="app_name">Quản lý thư viện sách</string>
-    <string name="action_settings">Cài đặt</string>
-
-    <!-- Login Screen -->
-    <string name="login_title">Quản lý thư viện sách</string>
-    <string name="login_subtitle">Đăng nhập để theo dõi sách của bạn</string>
+    <string name="app_name">Quản lý Lịch hẹn</string>
+    <string name="login_title">Quản lý Lịch hẹn</string>
+    <string name="login_subtitle">Đăng nhập để sắp xếp lịch hẹn của bạn</string>
     <string name="username_label">Tên đăng nhập</string>
-    <string name="username_hint">Nhập tên đăng nhập</string>
     <string name="password_label">Mật khẩu</string>
-    <string name="password_hint">••••••</string>
     <string name="login_error">Sai tên đăng nhập hoặc mật khẩu</string>
     <string name="login_button">Đăng nhập</string>
     <string name="login_sample_account">Tài khoản mẫu: admin / 123456</string>
-
-    <!-- Main Screen -->
-    <string name="main_title">Thư viện sách cá nhân</string>
-    <string name="stats_title">Thống kê tình trạng đọc</string>
-    <string name="stats_format">Tổng: %1$d | Đã đọc: %2$d | Chưa xong: %3$d</string>
-    <string name="book_list_title">Danh sách sách</string>
-    <string name="click_to_view_detail">(Nhấn vào một cuốn sách để xem chi tiết)</string>
-    <string name="add_book_button">+ Thêm sách mới</string>
-    <string name="empty_book_list">Chưa có cuốn sách nào trong thư viện!</string>
-
-    <!-- Add Book Screen -->
-    <string name="add_book_title">Thêm sách mới</string>
-    <string name="book_title_label">Tên sách *</string>
-    <string name="book_title_hint">Ví dụ: Lập trình Android cơ bản</string>
-    <string name="book_author_label">Tác giả *</string>
-    <string name="book_author_hint">Ví dụ: Nguyễn Văn A</string>
-    <string name="book_category_label">Thể loại</string>
-    <string name="book_status_label">Tình trạng đọc</string>
-    <string name="status_unread">Chưa đọc</string>
-    <string name="status_reading">Đang đọc</string>
-    <string name="status_read">Đã đọc</string>
-    <string name="book_rating_label">Đánh giá</string>
-    <string name="rating_format">%1$.1f / 5 sao</string>
-    <string name="book_note_label">Ghi chú</string>
-    <string name="book_note_hint">Nhập cảm nhận hoặc ghi chú về sách (nhiều dòng)...</string>
-    <string name="save_book_button">Lưu sách</string>
-
-    <!-- Detail Book Screen -->
-    <string name="detail_book_title">Chi tiết cuốn sách</string>
-    <string name="author_prefix">Tác giả: </string>
-    <string name="category_prefix">Thể loại: </string>
-    <string name="mark_as_read_button">✓ Đánh dấu đã đọc</string>
-    <string name="already_read_label">✓ Đã đọc xong</string>
+    <string name="required_username">Vui lòng nhập tên đăng nhập</string>
+    <string name="required_password">Vui lòng nhập mật khẩu</string>
+    <string name="main_title">Lịch hẹn của bạn</string>
+    <string name="stats_format">Tổng: %1$d | Có nhắc: %2$d</string>
+    <string name="list_hint">Sắp xếp theo thời gian · Nhấn để xem chi tiết</string>
+    <string name="add_appointment">Thêm lịch hẹn</string>
+    <string name="brand_eyebrow">LỊCH HẸN CÁ NHÂN</string>
+    <string name="login_headline">Dành thời gian\ncho điều quan trọng.</string>
+    <string name="login_welcome">Chào mừng trở lại</string>
+    <string name="main_subtitle">Mọi cuộc hẹn, trong tầm tay.</string>
+    <string name="schedule_title">Danh sách lịch hẹn</string>
+    <string name="add_subtitle">Một kế hoạch nhỏ, một ngày chủ động hơn.</string>
+    <string name="info_section">Thông tin cuộc hẹn</string>
+    <string name="time_section">Thời gian của bạn</string>
+    <string name="time_help">Chọn ngày và giờ diễn ra cuộc hẹn.</string>
+    <string name="reminder_help">Lưu tùy chọn nhắc cho cuộc hẹn này.</string>
+    <string name="detail_eyebrow">CUỘC HẸN CỦA BẠN</string>
+    <string name="location_detail_label">Địa điểm</string>
+    <string name="datetime_detail_label">Ngày và giờ</string>
+    <string name="sample_heading">Dùng thử ứng dụng</string>
+    <string name="empty_appointments">Chưa có lịch hẹn. Hãy thêm lịch hẹn đầu tiên!</string>
+    <string name="add_title">Thêm lịch hẹn mới</string>
+    <string name="appointment_title_label">Tên lịch hẹn *</string>
+    <string name="appointment_title_hint">Ví dụ: Họp nhóm đồ án</string>
+    <string name="location_label">Địa điểm *</string>
+    <string name="location_hint">Ví dụ: Phòng B203</string>
+    <string name="date_label">Ngày hẹn</string>
+    <string name="time_label">Giờ hẹn</string>
+    <string name="reminder_label">Nhắc nhở</string>
+    <string name="save_appointment">Lưu lịch hẹn</string>
+    <string name="required_title">Tên lịch hẹn không được để trống</string>
+    <string name="required_location">Địa điểm không được để trống</string>
+    <string name="future_time_required">Thời gian phải sau thời điểm hiện tại</string>
+    <string name="add_success">Đã thêm lịch hẹn</string>
+    <string name="detail_title">Chi tiết lịch hẹn</string>
+    <string name="has_reminder">Có nhắc</string>
+    <string name="no_reminder">Không nhắc</string>
+    <string name="reminder_on">Đang bật</string>
+    <string name="reminder_off">Đang tắt</string>
     <string name="back_button">Quay lại</string>
-    <string name="delete_book_button">Xóa cuốn sách này</string>
-    <string name="dialog_delete_book_title">Xác nhận xóa sách</string>
-    <string name="dialog_delete_book_message">Bạn có chắc chắn muốn xóa cuốn sách \"%1$s\" không?</string>
-    <string name="dialog_confirm_delete">Xóa</string>
-    <string name="dialog_cancel">Hủy</string>
-    <string name="no_note_placeholder">(Không có ghi chú)</string>
-
-    <!-- Validation & Messages -->
-    <string name="error_empty_title">Tên sách không được để trống!</string>
-    <string name="error_empty_author">Tác giả không được để trống!</string>
-    <string name="error_empty_field">Vui lòng nhập đầy đủ tên sách và tác giả!</string>
-    <string name="add_book_success">Đã thêm cuốn sách thành công!</string>
-    <string name="delete_book_success">Đã xóa sách khỏi thư viện!</string>
-    <string name="mark_as_read_success">Đã cập nhật tình trạng: Đã đọc!</string>
-    <string name="rating_updated">Đã cập nhật đánh giá %1$.1f sao!</string>
-
-    <!-- Categories Array -->
-    <string-array name="book_categories">
-        <item>Văn học</item>
-        <item>Khoa học</item>
-        <item>Công nghệ</item>
-        <item>Kỹ năng sống</item>
-        <item>Khác</item>
-    </string-array>
+    <string name="delete_appointment">Xóa lịch hẹn</string>
+    <string name="delete_title">Xác nhận xóa lịch hẹn</string>
+    <string name="delete_message">Bạn có chắc muốn xóa lịch hẹn “%1$s”?</string>
+    <string name="delete">Xóa</string>
+    <string name="cancel">Hủy</string>
+    <string name="delete_success">Đã xóa lịch hẹn</string>
+    <string name="appointment_missing">Lịch hẹn không tồn tại hoặc đã bị xóa</string>
+    <string name="database_error">Không thể truy cập dữ liệu. Vui lòng thử lại.</string>
 </resources>

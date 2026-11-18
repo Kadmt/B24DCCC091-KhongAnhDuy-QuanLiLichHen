@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:clipToPadding="false">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+        <TextView
+            style="@style/ApTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/add_title" />
+        <TextView
+            style="@style/ApBody"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/add_subtitle"
+            android:layout_marginTop="8dp" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp"
+            android:background="@drawable/ap_card"
+            android:layout_marginTop="24dp">
+            <TextView
+                style="@style/ApSection"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/info_section" />
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/ApInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:hint="@string/appointment_title_label"
+                app:startIconDrawable="@drawable/ap_ic_calendar">
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etTitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:minHeight="60dp"
+                    android:singleLine="true"
+                    android:inputType="textCapSentences"
+                    android:textSize="16sp"
+                    android:textColor="@color/ap_text"
+                    android:importantForAutofill="no"
+                    android:imeOptions="actionNext" />
+            </com.google.android.material.textfield.TextInputLayout>
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/ApInput"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:hint="@string/location_label"
+                app:startIconDrawable="@drawable/ap_ic_location">
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etLocation"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:minHeight="60dp"
+                    android:singleLine="true"
+                    android:inputType="textCapSentences"
+                    android:textSize="16sp"
+                    android:textColor="@color/ap_text"
+                    android:importantForAutofill="no" />
+            </com.google.android.material.textfield.TextInputLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp"
+            android:background="@drawable/ap_card"
+            android:layout_marginTop="16dp">
+            <TextView
+                style="@style/ApSection"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/time_section" />
+            <TextView
+                style="@style/ApBody"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/time_help"
+                android:layout_marginTop="6dp" />
+            <TextView
+                style="@style/ApSection"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/date_label"
+                android:layout_marginTop="20dp"
+                android:textSize="13sp"
+                android:labelFor="@id/dpDate" />
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fillViewport="true"
+                android:scrollbars="none">
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="vertical">
+                    <DatePicker
+                        android:id="@+id/dpDate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:datePickerMode="spinner"
+                        android:calendarViewShown="false" />
+                </LinearLayout>
+            </HorizontalScrollView>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginVertical="8dp"
+                android:background="@color/ap_border" />
+            <TextView
+                style="@style/ApSection"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/time_label"
+                android:textSize="13sp"
+                android:labelFor="@id/tpTime" />
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fillViewport="true"
+                android:scrollbars="none">
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="vertical">
+                    <TimePicker
+                        android:id="@+id/tpTime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:timePickerMode="spinner" />
+                </LinearLayout>
+            </HorizontalScrollView>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp"
+            android:background="@drawable/ap_card"
+            android:layout_marginTop="16dp">
+            <androidx.appcompat.widget.SwitchCompat
+                android:id="@+id/swReminder"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="48dp"
+                android:fontFamily="sans-serif-medium"
+                android:textSize="17sp"
+                android:textColor="@color/ap_text"
+                android:text="@string/reminder_label"
+                android:checked="true"
+                app:thumbTint="@color/ap_switch_thumb"
+                app:trackTint="@color/ap_switch_track" />
+            <TextView
+                style="@style/ApBody"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/reminder_help"
+                android:layout_marginTop="4dp"
+                android:textSize="13sp" />
+        </LinearLayout>
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnSave"
+            style="@style/ApButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/save_appointment"
+            app:icon="@drawable/ap_ic_calendar"
+            app:iconGravity="textStart"
+            android:layout_marginTop="24dp" />
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnBack"
+            style="@style/ApSecondaryButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/back_button"
+            app:icon="@drawable/ap_ic_back"
+            app:iconGravity="textStart"
+            android:layout_marginTop="12dp" />
+    </LinearLayout>
+</ScrollView>

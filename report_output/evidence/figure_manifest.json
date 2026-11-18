@@ -1,0 +1,87 @@
+[
+  {
+    "number": "4.1",
+    "file": "01_dang_nhap.png",
+    "caption": "Màn hình đăng nhập ban đầu"
+  },
+  {
+    "number": "4.2",
+    "file": "02_dang_nhap_thieu_thong_tin.png",
+    "caption": "Trạng thái lỗi khi bỏ trống tài khoản"
+  },
+  {
+    "number": "4.3",
+    "file": "03_dang_nhap_sai.png",
+    "caption": "Thông báo sai tên đăng nhập hoặc mật khẩu"
+  },
+  {
+    "number": "4.4",
+    "file": "04_danh_sach.png",
+    "caption": "Danh sách và thống kê ban đầu"
+  },
+  {
+    "number": "4.5",
+    "file": "05_form_them.png",
+    "caption": "Form thêm lịch hẹn mới"
+  },
+  {
+    "number": "4.6",
+    "file": "06_them_thieu_thong_tin.png",
+    "caption": "Lỗi trường tên và địa điểm bắt buộc"
+  },
+  {
+    "number": "4.7",
+    "file": "07_thoi_gian_khong_hop_le.png",
+    "caption": "Toast từ chối thời gian không ở tương lai"
+  },
+  {
+    "number": "4.8",
+    "file": "08_chon_thoi_gian_va_nhac.png",
+    "caption": "Thời gian hợp lệ và tùy chọn nhắc đang bật"
+  },
+  {
+    "number": "4.9",
+    "file": "09_them_thanh_cong.png",
+    "caption": "Lịch thử đã được thêm và thống kê tăng"
+  },
+  {
+    "number": "4.10",
+    "file": "10_chi_tiet.png",
+    "caption": "Chi tiết QA_Report_091 với nhắc đang bật"
+  },
+  {
+    "number": "4.11",
+    "file": "11_tat_nhac.png",
+    "caption": "Trạng thái nhắc chuyển sang Đang tắt"
+  },
+  {
+    "number": "4.12",
+    "file": "12_thong_ke_sau_tat_nhac.png",
+    "caption": "Danh sách cập nhật thành 4 lịch và 3 lịch có nhắc"
+  },
+  {
+    "number": "4.13",
+    "file": "13_du_lieu_sau_mo_lai.png",
+    "caption": "Lịch và trạng thái nhắc được giữ sau force-stop"
+  },
+  {
+    "number": "4.14",
+    "file": "17_huy_xoa.png",
+    "caption": "Chi tiết còn nguyên sau khi hủy xác nhận xóa"
+  },
+  {
+    "number": "4.15",
+    "file": "14_xac_nhan_xoa.png",
+    "caption": "Hộp thoại xác nhận nêu rõ tên lịch cần xóa"
+  },
+  {
+    "number": "4.16",
+    "file": "15_sau_khi_xoa.png",
+    "caption": "Danh sách sau khi xóa lịch thử"
+  },
+  {
+    "number": "4.17",
+    "file": "16_giao_dien_ngang.png",
+    "caption": "Bố cục danh sách ở hướng ngang"
+  }
+]

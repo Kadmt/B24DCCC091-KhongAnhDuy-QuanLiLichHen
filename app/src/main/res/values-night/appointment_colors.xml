@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color
+        name="ap_primary">#77D8C7</color>
+    <color
+        name="ap_on_primary">#063C34</color>
+    <color
+        name="ap_background">#101D1A</color>
+    <color
+        name="ap_surface">#1A2B26</color>
+    <color
+        name="ap_text">#E6F2ED</color>
+    <color
+        name="ap_muted">#B0C6BD</color>
+    <color
+        name="ap_border">#354D43</color>
+    <color
+        name="ap_soft">#27473D</color>
+    <color
+        name="ap_hero">#123F38</color>
+    <color
+        name="ap_hero_muted">#C0DCD4</color>
+    <color
+        name="ap_danger">#FFB4AB</color>
+    <color
+        name="ap_danger_soft">#4A2927</color>
+    <color
+        name="ap_neutral">#2A3B34</color>
+</resources>

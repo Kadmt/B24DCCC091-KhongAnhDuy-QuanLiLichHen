@@ -14,7 +14,7 @@
 
         <!-- LoginActivity - LAUNCHER Screen -->
         <activity
-            android:name=".ui.login.LoginActivity"
+            android:name=".activity.LoginActivity"
             android:exported="true"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
@@ -23,21 +23,21 @@
             </intent-filter>
         </activity>
 
-        <!-- MainActivity - Book List Screen -->
+        <!-- Appointment list -->
         <activity
-            android:name=".ui.main.MainActivity"
+            android:name=".activity.MainActivity"
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
 
-        <!-- AddBookActivity - Add Book Form -->
+        <!-- Add appointment -->
         <activity
-            android:name=".ui.add.AddBookActivity"
+            android:name=".activity.AddAppointmentActivity"
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
 
-        <!-- BookDetailActivity - Book Details and Actions -->
+        <!-- Appointment details -->
         <activity
-            android:name=".ui.detail.BookDetailActivity"
+            android:name=".activity.AppointmentDetailActivity"
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
 
